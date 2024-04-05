@@ -1,4 +1,4 @@
-# Uuniversity Projects Completed during Undergrad 
+# University Projects Completed during Undergrad 
 
 These are 2 examples of projects that I completed during undergrad. Just inteneded for personal use. Not to be used for commercial or any other way. 
 
